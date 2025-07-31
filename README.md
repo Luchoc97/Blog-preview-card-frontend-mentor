@@ -1,2 +1,5 @@
-# Blog-preview-card-frontend-mentor
-Repositorio para publicar desafío Blog preview card de frontend mentor
+# Frontend Mentor - Blog preview card
+
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
+
+## Welcome! 👋
